@@ -6,16 +6,16 @@ This Tkinter program displays different text and color depending on the button p
 
 The main screen of the program:
 
-![Main Screen](/screenshots/mainscreen.png)
+![Main Screen](/tkinter-primarycolor/screenshots/mainscreen.png)
 
 When the Blue button is clicked:
 
-![Selected Blue](/screenshots/selectedblue.png)
+![Selected Blue](/tkinter-primarycolor/screenshots/selectedblue.png)
 
 When the Yellow button is clicked:
 
-![Selected Yellow](/screenshots/selectedyellow.png)
+![Selected Yellow](/tkinter-primarycolor/screenshots/selectedyellow.png)
 
 When the Red button is clicked:
 
-![Selected Red](/screenshots/selectedred.png)
+![Selected Red](/tkinter-primarycolor/screenshots/selectedred.png)
