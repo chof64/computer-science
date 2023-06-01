@@ -1,4 +1,4 @@
-# chof64/computer-science/tkinter-primarycolor
+# chof64/computer-science/tkinter-form
 
 This Tkinter program accepts information and currently displays it at the terminal after button click.
 
