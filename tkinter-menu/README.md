@@ -1,4 +1,4 @@
-# chof64/computer-science/tkinter-primarycolor
+# chof64/computer-science/tkinter-menu
 
 This Tkinter program is built on top the `tkinter-form` program. With some custom menu configuration.
 
